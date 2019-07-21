@@ -8,3 +8,7 @@ All images courtesy of Unsplash (https://unsplash.com).
 - Lily lvnatikk (https://unsplash.com/photos/24ha6GoKHqs)
 
 Background video courtesy of Coverr (https://coverr.co).
+
+Hosting courtesy GitHub.
+
+AstorWhitney would like to extend a whole-hearted thank you to the open source community for the technologies, processes, templates, and software that makes our mission possible. 
